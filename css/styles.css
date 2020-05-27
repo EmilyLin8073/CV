@@ -25,7 +25,6 @@ h3 {
   color: #0086C7;
   font-family: 'Montserrat', sans-serif;
   font-size: 1.6rem;
-  text-align: left;
 }
 
 p {
@@ -35,7 +34,7 @@ p {
 hr {
   border: dotted #f0f5f9;
   border-bottom: none;
-  border-width: 5px;
+  border-width: 6px;
   width: 4%;
   margin: 100px auto;
 }
@@ -52,8 +51,8 @@ a:hover{
 }
 
 .top {
-  background-color: #a6e3e9;
   position: relative;
+  background-color: #a6e3e9;
   padding-top: 100px;
 }
 
@@ -75,14 +74,14 @@ a:hover{
   position: absolute;
   right: 600px;
   top: 30px;
-  width:5%;
+  width:4%;
 }
 
 .bottomS {
   position: absolute;
   left: 500px;
   bottom: 300px;
-  width:5%;
+  width:4%;
 }
 
 .middle {
@@ -112,7 +111,7 @@ a:hover{
 
 .skill-row {
   width: 50%;
-  margin: 50px auto 100px auto;
+  margin: 50px auto 170px auto;
   text-align: left;
 }
 
